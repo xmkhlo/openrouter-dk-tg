@@ -18,7 +18,7 @@
 #### 1. 配置Cloudflare Worker
 - **创建一个Worker**：登录Cloudflare仪表盘，选择“Workers” > “创建Worker”。
 - **编写代码**：用JavaScript写一个简单的Worker，接收Telegram的POST请求，调用OpenRouter API，再把结果发回Telegram。示例代码如下：
-
+[_worker.js](https://github.com/xmkhlo/openrouter-dk-tg/blob/main/_worker.js)
 
 
 - **设置环境变量**：
