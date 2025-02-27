@@ -1,3 +1,4 @@
+## 都是Grok 3生成的
 可行！你的想法完全可以实现，而且结合OpenRouter.ai的API、Cloudflare Workers和Telegram机器人，这种方案在技术上既灵活又高效。以下是我对这个项目的分析和实现思路，尽量简洁清晰地帮你梳理：
 
 ### 可行性分析
